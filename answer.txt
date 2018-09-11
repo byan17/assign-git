@@ -1,0 +1,4 @@
+1.gitignore file is used to determine which files and directories to ignore. For Java, gitignore file will include java file infomation, such as compiled class file, log file, BlueJ file, and etc.
+2.git uses fast forward when the users merge a branch that is aheahd of thier checked-out branch.
+3.branches can help organize the workflow and make it more efficient. branches can seperate the task clearly and help build the project easily and step by step.
+4.Two
